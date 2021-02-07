@@ -23,7 +23,7 @@ public class MainAction extends Action {
 		lobjForm.setMessage("Hello world");
 		
 		System.out.println("Start action main");
-		return mapping.findForward(viewPage);
+		return mapping.findForward(viewPage); 
 		
 		
 	}
