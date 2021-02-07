@@ -23,7 +23,7 @@ public class AccessDAO {
                                 + firstName
                                 + "','"
                                 + lastName
-                                + "','"
+                                + "','" 
                                 + userName
                                 + "','"
                                 + password
