@@ -24,5 +24,7 @@ public class MainAction extends Action {
 		
 		System.out.println("Main class");
 		return mapping.findForward(viewPage);
+		
+		//Test
 	}
 }
