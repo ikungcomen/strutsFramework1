@@ -11,4 +11,4 @@
 	<bean:write name="mainForm" property="message" />
 	HHHHHH
 </body>
-</html>
+</html> 
