@@ -20,11 +20,11 @@ public class MainAction extends Action {
 
 		String lstrparam = mapping.getParameter();
 		MainForm lobjForm = (MainForm)form;
-		lobjForm.setMessage("Success");
+		lobjForm.setMessage("Hello world");
 		
-		System.out.println("Main class");
+		System.out.println("Start action main");
 		return mapping.findForward(viewPage);
 		
-		//Test
+		
 	}
 }

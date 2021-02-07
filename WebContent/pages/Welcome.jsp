@@ -9,6 +9,5 @@
 </head>
 <body>
 	<bean:write name="mainForm" property="message" />
-	HHHHHH
 </body>
 </html> 
